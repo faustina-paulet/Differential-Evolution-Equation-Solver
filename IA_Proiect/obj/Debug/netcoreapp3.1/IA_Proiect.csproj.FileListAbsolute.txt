@@ -1,0 +1,54 @@
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.exe
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.deps.json
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.runtimeconfig.json
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.runtimeconfig.dev.json
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.dll
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.pdb
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.AssemblyReference.cache
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.Form1.resources
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.GenerateResource.cache
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.AssemblyInfo.cs
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.dll
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.pdb
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.genruntimeconfig.cache
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\bin\Debug\netcoreapp3.1\MathParser.org-mXparser.dll
+C:\Users\faust\OneDrive\Desktop\Proiect IA 2023\IA_Proiect\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.CopyComplete
+C:\Users\vali\Documents\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.exe
+C:\Users\vali\Documents\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.deps.json
+C:\Users\vali\Documents\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.runtimeconfig.json
+C:\Users\vali\Documents\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.runtimeconfig.dev.json
+C:\Users\vali\Documents\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.dll
+C:\Users\vali\Documents\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.pdb
+C:\Users\vali\Documents\IA_Proiect\bin\Debug\netcoreapp3.1\MathParser.org-mXparser.dll
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.AssemblyReference.cache
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.Form1.resources
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.GenerateResource.cache
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.AssemblyInfoInputs.cache
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.AssemblyInfo.cs
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.CoreCompileInputs.cache
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.CopyComplete
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.dll
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.pdb
+C:\Users\vali\Documents\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.genruntimeconfig.cache
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.AssemblyReference.cache
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.Form1.resources
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.GenerateResource.cache
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.AssemblyInfoInputs.cache
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.AssemblyInfo.cs
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.CoreCompileInputs.cache
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.dll
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.pdb
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.exe
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.deps.json
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.runtimeconfig.json
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.runtimeconfig.dev.json
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.dll
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\bin\Debug\netcoreapp3.1\IA_Proiect.pdb
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\bin\Debug\netcoreapp3.1\MathParser.org-mXparser.dll
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.csproj.CopyComplete
+C:\Users\faust\OneDrive\Desktop\IA\IA_Proiect\obj\Debug\netcoreapp3.1\IA_Proiect.genruntimeconfig.cache

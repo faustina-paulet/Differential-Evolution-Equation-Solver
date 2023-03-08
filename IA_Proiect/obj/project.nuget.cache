@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HaeqP+M0yeZnBSpeoYAvf++lI53YAxS/rP6Fq4qbLrpF15NKKFsf8dDjG7SWJux1ExD5uyvp+HwyHmOn4caJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faust\\OneDrive\\Desktop\\IA\\IA_Proiect\\IA_Proiect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faust\\.nuget\\packages\\mathparser.org-mxparser\\5.1.0\\mathparser.org-mxparser.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
